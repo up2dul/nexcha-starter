@@ -4,7 +4,7 @@
   "private": true,
   "author": "Abdul malik <up2dul@gmail.com>",
   "repository": {
-    "url": "https://github.com/up2dul/nextcha-starter"
+    "url": "https://github.com/up2dul/nexcha-starter"
   },
   "description": "My personal Next.js + TypeScript + Chakra UI starter template",
   "scripts": {

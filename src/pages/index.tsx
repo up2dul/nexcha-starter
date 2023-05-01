@@ -35,7 +35,7 @@ const Home: NextPage = () => {
         gap='24px'
       >
         <Box as='section' textAlign='center'>
-          <Heading fontSize='4xl'>📎 NextCha</Heading>
+          <Heading fontSize='4xl'>📎 NexCha</Heading>
           <Text mt='4px'>
             My personal Next.js, TypeScript, Chakra UI starter template.
           </Text>
